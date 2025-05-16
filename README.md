@@ -29,13 +29,3 @@ Welcome to my 30-day Python challenge — completed entirely using just a **mobi
 ## 🧠 Mindset
 > “No laptop? No problem. Just code daily.”
 
----
-
-## 📂 Folder Structure  
-/30-days-python-challenge
-│
-├── Day1/
-│   ├── Day1_Age_To_50.ipynb
-│   
-│
-
